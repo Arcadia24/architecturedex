@@ -1,4 +1,2 @@
 vitlightning/wandb/*
-vitlightning/data/*
 vitlightning/vision_transformer/*
-rnn-lstm-pytorch/data/*
